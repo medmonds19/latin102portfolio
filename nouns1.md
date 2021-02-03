@@ -11,11 +11,11 @@ avis, avis f: bird:
 
 canis, canis m or f: dog
 
-  1. cane (fem/masc ablative singular)
-  2. canem (fem/masc accusative singular)
-  3. canes (fem/masc nom plural)
-  4. canibus (fem/masc ablative plural)
-  5. canis (fem/masc gen sing)
+  1. cane (fem/masc ablative singular) magno cane 
+  2. canem (fem/masc accusative singular) magnum canem
+  3. canes (fem/masc nom plural) magni canes 
+  4. canibus (fem/masc ablative plural) magnis canibus
+  5. canis (fem/masc gen sing) magni canis 
   
 draco, draconis m: serpent, dragon
 
