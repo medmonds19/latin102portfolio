@@ -15,11 +15,11 @@ if the form is singular, convert to plural; if the form is plural, convert to si
 
 1. petivisset (third person singular, pluperfect, subjunctive, active) plural: petivissent
 2. necauit (third person singular, perfect, indicative, active) plural: necaverunt 
-necari (present infinitive passive) 
-3. rogaretur (third person singular imperfect active subjunctive) plural: rogarentur 
-4. coepit (third person singular present indicative active) plural: coepiunt 
-5. interfecisset (third person singular pluperfect subjunctive active) plural: interfecissent
-6. misit (third person singular perfect indicative active) plural: miserunt
+3. necari (present infinitive passive) 
+4. rogaretur (third person singular imperfect active subjunctive) plural: rogarentur 
+5. coepit (third person singular present indicative active) plural: coepiunt 
+6. interfecisset (third person singular pluperfect subjunctive active) plural: interfecissent
+7. misit (third person singular perfect indicative active) plural: miserunt
 
 Part 3: Latin composition
 Translate (only) the italicized verb forms into Latin. E.g., if you were given “Hercules saw Deianira,” you could translate saw with vidit.
