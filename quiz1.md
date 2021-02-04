@@ -3,7 +3,7 @@ Identify the gender, case and number, and gender of each noun. If there are mult
 
 1. filiam (fem accusative singular) 
 2. in coniugium (netuer nom sing) (neuter acc sing) into marriage 
-3. animo
+3. animo (masc sing dative/ablative)
 4. uirgine (masc ablative singular) (fem ablative sing) 
 5. parentes (masc nom pl) 
 6. ad uxorem (fem accusative sing) towards wife 
