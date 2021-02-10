@@ -35,3 +35,7 @@ B. Grammatical questions
 
 6. Identify the form of the noun-adjective phrase tempore certo, and explain why it is in this case.
 - it is in ablative because it is pinpointing an exact time when something happened.
+
+C. Translation
+Hercules came to King Dexamenus in hospitality, took his duaghter Deianiram's virginity, and wanted to take her as his wife. When Hercules was absent, Eurytion's centaurs demanded Deinariam as his wife. Since the father feared the centaur, he promised her to him. At a certain time, the centaurs and brothers came to the marriage. Hercules intervened and killed the centaurs, and carried off Deianiram.
+
