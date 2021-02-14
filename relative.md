@@ -17,3 +17,12 @@ He killed the Centaur Eurytion
 He killed Eurytion, 
 > whose daughter he had asked to marry.
 
+Hercules in Aegypto Busiridem necavit,
+> **qui hospites interficiebat**, 
+
+Hercules in mare iecit.
+> Licham **qui uestem attulerat** 
+
+Eurytum cuius filiamoccidit.
+> **eius in coniugium petiuit** 
+
