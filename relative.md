@@ -5,10 +5,10 @@ Hercules hurled Lichas,
 > who had brought the poisoned garment, 
 >> into the see.
 
+In Egypt, 
+> Hercules killed Busiris,
+>> who regularly sacrificed foreigners.
 
-Hercules killed Busiris,
-> who regularly sacrificed foreigners.
->> In Egypt, 
 
 He killed the Centaur Eurytion
 > because he wanted to marry Deianira, 
@@ -17,12 +17,14 @@ He killed the Centaur Eurytion
 He killed Eurytion, 
 > whose daughter he had asked to marry.
 
-Hercules in Aegypto Busiridem necavit,
-> **qui hospites interficiebat**, 
+**Hercules** in Aegypto Busiridem
+> **qui** hospites interficiebat,
+>> necavit
 
-Hercules in mare iecit.
-> Licham **qui uestem attulerat** 
+**Hercules** Licham **qui** uestem attulerat
+>> in mqare iecit
 
-Eurytum cuius filiamoccidit.
-> **eius in coniugium petiuit** 
+
+Eurytum **cuius** filiam **eius**
+> in conigium petiuit occidit
 
