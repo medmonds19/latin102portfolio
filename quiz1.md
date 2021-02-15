@@ -19,7 +19,7 @@ if the form is singular, convert to plural; if the form is plural, convert to si
 2. necauit (third person singular, perfect, indicative, active) plural: necaverunt 
 3. necari (present infinitive passive) 
 4. rogaretur (third person singular imperfect active subjunctive) plural: rogarentur 
-5. coepit (third person singular present indicative active) plural: coepiunt 👍 *Could also be **perfect** tense.  What would the plural be?*
+5. coepit (third person singular present indicative active) plural: coepiunt 
 6. interfecisset (third person singular pluperfect subjunctive active) plural: interfecissent
 7. misit (third person singular perfect indicative active) plural: miserunt
 
