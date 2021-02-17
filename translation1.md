@@ -18,8 +18,8 @@ centaurus Eurytion *petit* Deianiram uxorem.
 *venit* centaurus cum fratribus ad nuptias. 
 
 Hercules *interuenit*
-> et centaurum *interfecit*
->> , Deianiram *abduxi*t.
+et centaurum *interfecit*, 
+Deianiram *abduxi*t.
 
 B. Grammatical questions
 1. Write a dictionary entry (nominative singular, genitive singular, gender) for Dexamenum, then identify the form Dexamenum.
