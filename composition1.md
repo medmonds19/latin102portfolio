@@ -24,13 +24,13 @@ quia
 
 Composition:
 
-Cum Hercules Oechaliam veniret, ducere in conjugium Iolen rogavit.
+Cum Hercules Oechalia venisset, is petivit iolen ducere in conjugium.
 
-Cum pater eius nollet, Hercules Iolen cepit.
+Cum pater eius nollet, Hercules Oechaliam cepit.
 
-Hercules dixit interfecti est eius parentes/ 
+Hercules dixit interfecti est eius parentes. 
 
 Iole patiebatur, Parentes eius interfecit.
 
-Cum interficerent omnes ei, misit Iolen Deianirae
+Cum interficerent omnes eos, misit Iolen Deianirae
 
