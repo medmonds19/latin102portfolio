@@ -1,9 +1,12 @@
-**Needs minor revisions**
+**Full credit**
+
 
 A. Grammatical analysis
 Place each clause on a separate line, indented to show its level of subordination. Italicize the verb of each clause by surrounding it with asterisks.
 
-> Hercules cum in hospitium ad Dexamenum regem *uenisset*
+Hercules 
+
+> cum in hospitium ad Dexamenum regem *uenisset*
 
 > eiusque filiam Deianiram *deuirginasset*, 
 
@@ -17,18 +20,18 @@ centaurus Eurytion *petit* Deianiram uxorem.
 
 > quia pater eius centaurum *timebat*,
 
-*pollicitus es*t
+*pollicitus est*
 
 > se daturum.
 
 
-Tempore certo, *venit* centaurus cum fratribus ad nuptias. (fixed)
+Tempore certo, *venit* centaurus cum fratribus ad nuptias.
 
 Hercules *interuenit*
 
 et centaurum *interfecit*, 
 
-Deianiram *abduxi*t.
+Deianiram *abduxit*.
 
 B. Grammatical questions
 1. Write a dictionary entry (nominative singular, genitive singular, gender) for Dexamenum, then identify the form Dexamenum.
@@ -50,5 +53,5 @@ B. Grammatical questions
 - it is in ablative because it is pinpointing an exact time when something happened.
 
 C. Translation
-**When hercules came in hospitality to King Dexamenus and deflowered his daughter, he wanted to lead her as a wife. When hercules was away, the Centaur, Eurytion, demanded Deianiram as a wife. Since her father feared the centaur, he promised her to hime. At this time, the centaur came with his brothers to the wedding. Hercules intervened and killed the centaur, hercules carried deiniram away.**
+**When hercules came in hospitality to King Dexamenus and deflowered his daughter, he wanted to lead her as a wife. When hercules was away, the Centaur, Eurytion, demanded Deianiram as a wife. Since her father feared the centaur, he promised her to him. At this time, the centaur came with his brothers to the wedding. Hercules intervened and killed the centaur, hercules carried deiniram away.**
 
