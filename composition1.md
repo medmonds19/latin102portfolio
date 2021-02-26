@@ -1,3 +1,6 @@
+**Needs revisions**
+**Very nice draft!  We can tidy this up easily.**
+
 Instructions
 Using the story above as inspiration, compose a paragraph of Latin according to the instructions below. (DO NOT DIRECTLY TRANSLATE THE PARAGRAPH ABOVE.)
 
@@ -28,9 +31,9 @@ Cum Hercules Oechalia venisset, is petivit iolen ducere in conjugium.
 
 Cum pater eius nollet, Hercules Oechaliam cepit.
 
-Hercules dixit interfecti est eius parentes. 
+Hercules dixit interfecti est❌ eius parentes. 
 
-Iole patiebatur, Parentes eius interfecit.
+Iole patiebatur, Parentes eius interfecit❌.
 
-Cum interficerent omnes eos, misit Iolen Deianirae
+Cum interficerent omnes eos🤔, misit Iolen Deianirae❌
 
