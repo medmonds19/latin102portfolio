@@ -113,10 +113,39 @@ sentence as the independent clause, and making the second sentence a relative cl
     
 6. In Egypt, Hercules killed the priest Busiris. Busiris regularly sacrificed foreigners.
 
+     - in egypt, hercules killed the priest busiris, who regularly sacrificed foreigners.
+     - qui
+     - busiris is masc sing
+     - latin pronoun is nominative because relative pronoun is subject
 
 7. Prometheus’ heart was devoured by an eagle. Hercules shot the eagle dead with his arrows.
+
+    - prometheus' heart was devoured by an eagle, whom hercules shot with his arrows
+    - quam
+    - eagle is antecedent, fem sing
+    - latin pronoun is accusative because relative pronoun, aquilam, is accusative
+
+
 8. Lycus tried to kill Megara and her sons Therimachus and Ophites. Lycus was killed by Hercules.
+
+    - lycus, who was killed by hercules, tried to kill megara and her sons therimachus          and ophites
+    - qui
+    - lycus is masc sing
+    - latin pronoun is nominative because relative pronoun is nominative
+
+
 9. Hercules stole a tripod from the temple at Delphi. Apollo refused to give Hercules an oracle.
+
+    - hercules, whom apollo refused to give an oracle, stole a tripod from the temple at        delphi
+    - quem
+    - hercules is masc sing
+    - latin pronoun is accusative because relative pronoun is direct object
+   
 10. Hercules killed his own wife Megara. Juno drove threw Hercules into a fit of madness.
+
+    - hercules, whom juno drove into a fit of madness, killed his own wife Megara.
+    - quem
+    - hercules is masc sing
+    - latin pronoun is accusative since relative pronoun is direct object. 
 
 
