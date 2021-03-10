@@ -35,5 +35,5 @@ Hercules dixit interfecti est❌ eius parentes. **Hercules dixit se interfecturu
 
 Iole patiebatur, Parentes eius interfecit❌. **Iole patiebatur, se parentes eius interfecterum esse**
 
-Cum interficerent omnes eos🤔, misit Iolen Deianirae❌ **Cum Hercules interfecisset omnes parentes, misit Iolen Deianiram**
+Cum interficerent omnes, misit Iolen Deianirae❌ **Cum Hercules interfecisset omnes parentes, misit Iolen Deianiram**
 
