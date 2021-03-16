@@ -1,3 +1,6 @@
+**Needs revisions**
+**Very nice first submission!**
+
 first conjugation: do, dare, dedi, datus - to give
 
 third plural present indicative active- dant 
@@ -94,7 +97,7 @@ sentence as the independent clause, and making the second sentence a relative cl
 
     - nessus, whom hercules killed, tried to rape deianira. 
     
-    - quiem
+    - quiem❌
     
     - Nessus is antecedent, masculine singular
     
@@ -104,11 +107,11 @@ sentence as the independent clause, and making the second sentence a relative cl
 
     - nessus gave deianira a vial of blood, by which hercules was poisoned
     
-    - cui
+    - cui❌
     
     - vial of blood is the antecedent, singular masculine 
     
-    - latin pronoun is dative since relative pronoun is indirect object
+    - latin pronoun is dative since relative pronoun is indirect object❌
     
     
 6. In Egypt, Hercules killed the priest Busiris. Busiris regularly sacrificed foreigners.
@@ -137,9 +140,9 @@ sentence as the independent clause, and making the second sentence a relative cl
 9. Hercules stole a tripod from the temple at Delphi. Apollo refused to give Hercules an oracle.
 
     - hercules, whom apollo refused to give an oracle, stole a tripod from the temple at        delphi
-    - quem
+    - quem❌
     - hercules is masc sing
-    - latin pronoun is accusative because relative pronoun is direct object
+    - latin pronoun is accusative because relative pronoun is direct object❌
    
 10. Hercules killed his own wife Megara. Juno drove threw Hercules into a fit of madness.
 
