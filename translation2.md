@@ -26,11 +26,43 @@ As he was dying, when he knew that the arrows had great potency because they had
 B. Grammatical questions
 
 1. Identify the antecedent of cui, and its gender and number. Then explain what case cui is, and how it functions in the relative clause. (I.e., why is cui in this case?)
+
+- cui is a relative pronoun and the antecendent is magnum which is neuter sing. Cui and the antecedent have the same gender and numbver, but cui is used with the dative case, the winners/losers case
+
 2.Identify the form of transire. Explain why you placed it in the clause you chose.
+
+- transire is present active infinitive of transeo
+- transire is used in a direct statement "she could not cross"
+- 2nd principle part of transeo which is why we know it is the present active infinitive 
+
 3.sublatam is from a verb that is a compound of sub plus a verb you should know very well. Identify the form of this participle (which for participles means: gender, case, number, tense voice). Find the dictionary entry for this word in thed Lewis-Short’s Latin Dictionary, and give its URN here.
+
+- the dictionary entry it comes from is fero, ferre, tuli, latus - to bear, carry, bring
+- coming from the 4th principle part, which makes it perfect passive participle
+- matching deianira, so it is accusative and feminine 
+
 4.Identify the form of sagittis. Why does Hyginus use this case?
+
+- dative plural feminine 
+- dative to express possession 
+
 5.Identify the form of moriens.
+
+- moriens is present active pariticple of morior 
+
 6.Identify felle. Why does Hyginus use this case?
+
+- felle is neuter ablative
+- ablative is the "do it all" case 
+
 7.Identify the form of tinctas.
+
+- accusative plural perfect passive participle
+
 8.Identify the form of exceptum.
+
+- accusative singular perfect passive participle
+
 9.William Faulkner’s novel As I lay dying takes its title from an English translation of a single word in Odyssey 11.424. In Greek, where participles function very differently from English but similarly to Latin, that word is a present active participle. Suggest one or more possible translations of Faulkner’s title into Latin.
+
+- moriens
