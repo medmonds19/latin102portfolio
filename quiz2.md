@@ -1,5 +1,5 @@
-**Needs revisions**
-**Very nice first submission!**
+**Full credit**
+
 
 first conjugation: do, dare, dedi, datus - to give
 
@@ -97,7 +97,7 @@ sentence as the independent clause, and making the second sentence a relative cl
 
     - nessus, whom hercules killed, tried to rape deianira. 
     
-    - quiem❌ **quem** (this one was a typo)
+    - **quem** 
     
     - Nessus is antecedent, masculine singular
     
@@ -105,13 +105,13 @@ sentence as the independent clause, and making the second sentence a relative cl
 
 5. Nessus gave Deianira a vial of blood. Hercules was poisoned by the blood.
 
-    - nessus gave deianira a vial of blood, by which hercules was poisoned
+    - Nessus gave Deianira a vial of blood, by which hercules was poisoned
     
-    - cui❌ **quo**  
+    - **quo**  
     
-    - vial of blood is the antecedent, singular masculine 
+    - blood is the antecedent, singular masculine 
     
-    - latin pronoun is accusative because relative pronoun is direct object
+    - latin pronoun ablative because it expresses instrument or means
     
     
 6. In Egypt, Hercules killed the priest Busiris. Busiris regularly sacrificed foreigners.
@@ -140,9 +140,9 @@ sentence as the independent clause, and making the second sentence a relative cl
 9. Hercules stole a tripod from the temple at Delphi. Apollo refused to give Hercules an oracle.
 
     - hercules, whom apollo refused to give an oracle, stole a tripod from the temple at        delphi
-    - quem❌ **cui** 
+    - **cui** 
     - hercules is masc sing
-    - latin pronoun is accusative because relative pronoun is direct object❌            **dative because the relative pronoun is the indirect object**
+    - **dative because the relative pronoun is the indirect object**
    
 10. Hercules killed his own wife Megara. Juno drove threw Hercules into a fit of madness.
 
