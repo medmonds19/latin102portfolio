@@ -1,5 +1,8 @@
+**Needs revisions**
+
 A. Grammatical analysis
 
+**What happened to the first part of the passage?**
 ille
 
 > moriens
@@ -19,7 +22,9 @@ Deianiarae dedit et
 dixit
 
 Translation
-Deianira, the wife of hercules, could not cross the great river, which was named Evenus, and the centaur Nessus, who was the son of Ixion and Nubes, asked him for help. After she had been carried up in the river itself he wanted to rape her. WHen hercules came to this place and Deianira implored his help, he pierced Nessus with his arrows.
+
+Deianira, the wife of hercules, could not cross the great river, which was named Evenus, 
+and the centaur Nessus❌, who was the son of Ixion and Nubes, asked him for help. After she had been carried up in the river itself he wanted to rape her. WHen hercules came to this place and Deianira implored his help, he pierced Nessus with his arrows.
 
 As he was dying, when he knew that the arrows had great potency because they had been soaked in poisinous liquid of the Hydra Lerna, he gave his own blood to Deianira after it had been removed and he said it was a love potion. 
 
@@ -27,12 +32,12 @@ B. Grammatical questions
 
 1. Identify the antecedent of cui, and its gender and number. Then explain what case cui is, and how it functions in the relative clause. (I.e., why is cui in this case?)
 
-- cui is a relative pronoun and the antecendent is magnum which is neuter sing. Cui and the antecedent have the same gender and numbver, but cui is used with the dative case, the winners/losers case
+- cui is a relative pronoun and the antecendent is magnum❌ which is neuter sing. Cui and the antecedent have the same gender and number, but cui is used with the dative case, the winners/losers case
 
 2.Identify the form of transire. Explain why you placed it in the clause you chose.
 
 - transire is present active infinitive of transeo
-- transire is used in a direct statement "she could not cross"
+- transire is used in a direct statement "she could not cross"❌
 - 2nd principle part of transeo which is why we know it is the present active infinitive 
 
 3.sublatam is from a verb that is a compound of sub plus a verb you should know very well. Identify the form of this participle (which for participles means: gender, case, number, tense voice). Find the dictionary entry for this word in thed Lewis-Short’s Latin Dictionary, and give its URN here.
@@ -43,17 +48,17 @@ B. Grammatical questions
 
 4.Identify the form of sagittis. Why does Hyginus use this case?
 
-- dative plural feminine 
+- dative❌ plural feminine 
 - dative to express possession 
 
 5.Identify the form of moriens.
 
-- moriens is present active pariticple of morior 
+- moriens is present active pariticple of morior  **Gender, case?**
 
 6.Identify felle. Why does Hyginus use this case?
 
 - felle is neuter ablative
-- ablative is the "do it all" case 
+- ablative is the "do it all" case ❌
 
 7.Identify the form of tinctas.
 
