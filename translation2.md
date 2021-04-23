@@ -24,7 +24,7 @@ dixit
 Translation
 
 Deianira, the wife of hercules, could not cross the great river, which was named Evenus, 
-and the centaur Nessus❌, who was the son of Ixion and Nubes, asked him for help. After she had been carried up in the river itself he wanted to rape her. WHen hercules came to this place and Deianira implored his help, he pierced Nessus with his arrows.
+and the centaur Nessus❌ **asked Nessus the centaur**, who was the son of Ixion and Nubes, asked him for help. After she had been carried up in the river itself he wanted to rape her. WHen hercules came to this place and Deianira implored his help, he pierced Nessus with his arrows.
 
 As he was dying, when he knew that the arrows had great potency because they had been soaked in poisinous liquid of the Hydra Lerna, he gave his own blood to Deianira after it had been removed and he said it was a love potion. 
 
@@ -32,7 +32,7 @@ B. Grammatical questions
 
 1. Identify the antecedent of cui, and its gender and number. Then explain what case cui is, and how it functions in the relative clause. (I.e., why is cui in this case?)
 
-- cui is a relative pronoun and the antecendent is magnum❌ which is neuter sing. Cui and the antecedent have the same gender and number, but cui is used with the dative case, the winners/losers case **the antecedent is "flumen" and it is used as a possessive pronoun to express the name of the river**
+- cui is a relative pronoun and the antecendent is magnum❌ which is neuter sing. Cui and the antecedent have the same gender and number, but cui is used with the dative case, the winners/losers case **the antecedent is "flumen" and it is dative and used as a possessive pronoun to express the name of the river**
 
 2.Identify the form of transire. Explain why you placed it in the clause you chose.
 
@@ -50,7 +50,7 @@ B. Grammatical questions
 
 - dative❌ plural feminine 
 - dative to express possession 
-- **ablative to show "with the arrows"**
+- **ablative to show "with the arrows" using it becausr it is an instrument**
 
 5.Identify the form of moriens.
 
@@ -60,6 +60,7 @@ B. Grammatical questions
 
 - felle is neuter ablative
 - ablative is the "do it all" case ❌ 
+- **masculine ablative singular, using this case because it is ablative of instrument**
 
 
 7.Identify the form of tinctas.
