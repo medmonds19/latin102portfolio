@@ -67,7 +67,8 @@ B. Grammatical questions
 
 - transire is present active infinitive of transeo
 - transire is used in a direct statement "she could not cross"
-- 2nd principle part of transeo which is why we know it is the present active infinitive 
+- 2nd principle part of transeo which is why we know it is the present active infinitive
+- complementary infintive- poterat + transire  
 
 3.sublatam is from a verb that is a compound of sub plus a verb you should know very well. Identify the form of this participle (which for participles means: gender, case, number, tense voice). Find the dictionary entry for this word in thed Lewis-Short’s Latin Dictionary, and give its URN here.
 
@@ -94,7 +95,7 @@ B. Grammatical questions
 
 7.Identify the form of tinctas.
 
-- accusative plural perfect passive participle
+- feminine accusative plural perfect passive participle
 
 8.Identify the form of exceptum.
 
