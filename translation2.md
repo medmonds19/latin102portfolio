@@ -2,7 +2,36 @@
 
 A. Grammatical analysis
 
-**What happened to the first part of the passage?**
+
+Deianira, uxor Herculis, flumen magnum, (great river)
+
+>cui nomen Evenus erat,
+
+non poterat transire, (imperfect, indicative) can go
+
+et
+
+centaurum Nessum,
+
+>qui filius Ixionis et Nubis erat,
+
+auxilium rogavit.
+
+
+Hic Deianiram
+
+>sublatam in flumine ipso
+
+uiolare uoluit.
+
+
+huc Hercules
+
+>cum interuenisset
+
+>et Deianira cum fidem eius implorasset
+
+Nessum sagittis confixit.
 ille
 
 > moriens
