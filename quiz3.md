@@ -8,13 +8,13 @@ for a three-ending adjective, masculine, feminine and neuter nominative singular
 
 1. uno die : dies, diei, M; unus, una, unum
 3. totum stercus: stercus, stercoris, m; totus, tota, totum
-4. ceruum ferocem: feorx, reocis, M; ceruus, cerui
-5. tantam vim: vis, vires, F; tantus, tanta tantum
+4. ceruum ferocem: feorx, reocis❌, M; ceruus, cerui
+5. tantam vim: vis, vires❌, F; tantus, tanta tantum
 6. sagittas suas: sagitta, sagittae, F; Suus, sua, suum
 7. cornibus aureis: cornus, cornus, F; aureus, aurea, aureum
 8. carne humana: carnis, carnis, F; hmanus, humana, humunuam
 9. draconem immanem: draco, draconis, M; immanis, immane
-10. mala aurea: malum, malae, M; aureus, aurea, aureum
+10. mala aurea: malum, malae❌, M; aureus, aurea, aureum
 
 For the following verbs in various forms, list the four principal parts you would find in a dictionary entry for this verb. If a part is missing (e.g., for a deponent verb, there will be no perfect active form for a third prinicipal part), list a dash - for the missing part.
 
@@ -37,7 +37,7 @@ Dictionaries do not include large numbers of proper names and adjectives. Compos
 3. in Phrygia: Phrygius, Phrygia, Phrygium
 4. ex Creta: Creta, cretae, F
 5. Thraciae rex: thracia, thraciae, F
-6. cum Abdero: desum, desse, defui, defuturus
+6. cum Abdero: desum, desse, defui, defuturus❌❓
 7. Eurystheo regi: Eurystheus, Eurysthei, M
 
 Compose a dictionary form for the proper adjectives in the following phrases:
@@ -45,7 +45,7 @@ Compose a dictionary form for the proper adjectives in the following phrases:
 1. Leonem Nemeum: nemeus, nemea, nemeum
 2. Hydram Lernaeam: lernaeus, lernaea, lernaeum
 3. aprum Erymanthium: Erymanthius, Erymanthia, Erymanthium
-4. aves Stymphalides: Stymphalus, Stymphala, Stymphalum
+4. aves Stymphalides: Stymphalus, Stymphala, Stymphalum❌
 5. Hippolyten Amazonam (NB: Hippolyten is a Greek name in a feminine accusative singular form, like Iolen in our earlier assignment.) ; Amazonus, Amazona, Amazonum
 
 Comparative and superlative forms
@@ -68,15 +68,15 @@ and the adjective magnus/a/um, “great, large,” with irregular comparative ma
     - maoire afflatu
 3. The Hydra killed passers by with the greatest blowing of his poisonous breath.
     - maximo afflatu
-4. The victims died in great torment.
+4. The victims died in great torment.❌ **Correct formation, but why accusative in 4-6?**
     - magnum cruciatum 
 5. The victims died in greater torment.
     - maiorem cruciatum
 6. The victims died in the greatest torment.
     - maximum cruciatum
 7. Hercules cleaned a great part of the stables.
-    - magnum partem catabuli 
+    - magnum partem  
 8. Hercules cleaned a greater part of the stables.
-    - maoirem partem catabuli 
+    - maoirem partem  
 9. Hercules cleaned the greatest part of the stables.
-    - maximam partem catabuli
+    - maximam partem 
