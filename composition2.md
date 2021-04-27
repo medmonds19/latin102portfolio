@@ -1,3 +1,6 @@
+**Needs revisions**
+**Lots of good work here: a few minor items, and vocabulary choices we could review.**
+
 Instructions:
 
 Your composition should use at least two participles and two relative clauses.
@@ -24,8 +27,8 @@ flammo, flammare, flammavi, flammatus “flame, burn”
 
 Composition:
 
-1. Cum Deinara, filiae Oeneus et uxor Herculis, vidertt Iolen adductam esse, Deinara conjurationem copiebat machinari, conjugem ne privaret.
-2. Ea famulum misit ad dandum vestem, sanguinem centauri Nessi imbuitur, Herculi, quem ea philtrum cogitavit.
-3. Hercules vestem induit et hunc statim in flammatum.
-4. Hercules servam objecit, quam Deinara misit ut dederit Hercules vestem, in mare. 
-5. Dixit Herculem fierisse non mortalem, sed quod Deinaraei factum se interfecit. 
+1. Cum Deinara, filiae Oeneus et uxor Herculis, vidertt❌ Iolen adductam esse, Deinara conjurationem copiebat machinari, conjugem ne privaret.
+2. Ea famulum misit ad dandum vestem, sanguinem❌  centauri Nessi imbuitur, Herculi, quem ea philtrum cogitavit.❌
+3. Hercules vestem induit et hunc statim in flammatum.❌
+4. Hercules servam objecit❌, quam Deinara misit ut dederit Hercules vestem, in mare. 
+5. Dixit Herculem fieriss❌e non mortalem, sed quod❌ Deinaraei factum se interfecit. 
