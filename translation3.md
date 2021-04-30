@@ -47,3 +47,4 @@ B. Grammatical questions
 C. Literary commentary
 Choose two choices of syntax, word order, or diction that Hyginus makes in this passage that complement or enhance the meaning of the passage’s content. Discuss briefly s in 3-4 sentences. Italicize Latin words when citing them.
 
+One thing that is interesting in these passages is that Hercules' name is not mentioned, but infered as the subject. This is something we had to continue to remind ourselves in the breakout rooms when analyzing the Hyginus readings, because when you only look at a couple lines at a time, such as the ones above, you might forget that they are part of a much larger story, where Hercules is a prominent character, and his name may not be used in every sentence, but it can be inferred as the subject. 
