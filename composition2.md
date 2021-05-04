@@ -27,8 +27,8 @@ flammo, flammare, flammavi, flammatus “flame, burn”
 
 Composition:
 
-1. Cum Deinara, filiae Oeneus et uxor Herculis, vidertt❌ Iolen adductam esse, Deinara conjurationem copiebat machinari, conjugem ne privaret.
-2. Ea famulum misit ad dandum vestem, sanguinem❌  centauri Nessi imbuitur, Herculi, quem ea philtrum cogitavit.❌
-3. Hercules vestem induit et hunc statim in flammatum.❌
+1. Cum Deinara, filiae Oeneus et uxor Herculis, vidertt❌ **vidisset** Iolen adductam esse, Deinara conjurationem copiebat machinari, conjugem ne privaret.
+2. Ea famulum misit ad dandum vestem, sanguinem❌ **sanguine** centauri Nessi imbuitur, Herculi, quem ea philtrum cogitavit.❌ **quem putabat philtrum esse**
+3. Hercules vestem induit et hunc statim in flammatum.❌ **qui statim flammavit** 
 4. Hercules servam objecit❌, quam Deinara misit ut dederit Hercules vestem, in mare. 
-5. Dixit Herculem fieriss❌e non mortalem, sed quod❌ Deinaraei factum se interfecit. 
+5. Dixit Herculem fieriss❌e non mortalem, sed quod❌ Deinaraei factum se interfecit. **Hercules est deum factus sed Deianira occidit se propter factum** 
