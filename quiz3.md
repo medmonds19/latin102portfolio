@@ -68,12 +68,12 @@ and the adjective magnus/a/um, “great, large,” with irregular comparative ma
     - maoire afflatu
 3. The Hydra killed passers by with the greatest blowing of his poisonous breath.
     - maximo afflatu
-4. The victims died in great torment.❌ **Correct formation, but why accusative in 4-6?**
-    - magnum cruciatum **magno cruciato** 
+4. The victims died in great torment.
+    - magno cruciato 
 5. The victims died in greater torment.
-    - maiorem cruciatum **maximus cruciato**
+    - maximus cruciato
 6. The victims died in the greatest torment.
-    - maximum cruciatum **maximus crucaito**
+    - maximus crucaito
 7. Hercules cleaned a great part of the stables.
     - magnum partem  
 8. Hercules cleaned a greater part of the stables.
