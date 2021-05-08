@@ -54,7 +54,8 @@ B. Grammatical questions
   - ablative singular + ablative singular, passive perfect participle, ablative absolute
 5. What are the gender, number, case, and antecedent of qui?
   - qui is masculine, plural, nominative
-  - antecedent is quattor eius❌ **Quattuor is an adjective "four".  The antecedent is four *something* -- what noun?**
+  - antecedent is quattor eius❌ **antecedent isa equos**
+  
 6. What Latin verb form has to be understood in the clause that runs from equorum to Dinus?
   - the verb "to be" it is omitted since it has no present participle but has to be understood to be in clause otherwise sentence would be incomplete 
 
@@ -68,4 +69,6 @@ Translation:
 He cleaned the manure of the stall of King Augeas on one day, with greater part of help from Jupiter. He washed all of the manure away by letting the river in. 
 He brought the bull, with whom Pasiphase had sex, from island Crete to Mycenae alive. 
 With his slave Abderus he killed Diomedes, king of Thrace, and his four horses, who ate human flesh. The horses' names were Podargus, Lampon, Xanthus and Dinus. 
+**Hercules killed Diomedes, the king of thrace, and his four horses, who ate human flesh, with the slave Abderus**
+
 ❓ **This translation does not contradict the grammar: it's correct in that sense. But it does contradict the story!  Abderus is a slave of Diomedes, not Hercules.**
