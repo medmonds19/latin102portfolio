@@ -1,4 +1,4 @@
-**Needs revisions**
+**Needs 1 tiny revision**
 **Lots of good work here: a few minor items, and vocabulary choices we could review.**
 
 Instructions:
@@ -27,22 +27,22 @@ flammo, flammare, flammavi, flammatus “flame, burn”
 
 Composition:
 
-1. Cum Deinara, filiae Oeneus et uxor Herculis, vidertt❌ Iolen adductam esse, Deinara conjurationem copiebat machinari, conjugem ne privaret.
+1. Cum Deinara, filiae Oeneus et uxor Herculis, vidertt Iolen adductam esse, Deinara conjurationem copiebat machinari, conjugem ne privaret.
 
 **Cum Deinara, filia Oeni et uxor Hurculis, videret, Iolen adductam esse, Deinara coepit machinari, ne coniugio privaretur.**
 
-2. Ea misit famulum ad dandum vestem, sanguinem❌ **sanguine** centauri Nessi imbuitur, Herculi, quem ea philtrum cogitavit.❌ 
+2. Ea misit famulum ad dandum vestem, **sanguine** centauri Nessi imbuitur, Herculi, quem ea philtrum cogitavit.
 
 **Ea famulum misit ut daret Herculi vestem, sanguine centauri Nessi tinctam quem putabat philtrum esse**
 
-3. Hercules vestem induit et hunc statim in flammatum.❌ 
+3. Hercules vestem induit et hunc statim in flammatum. 
 
 **Hercules vestem induit statimque flammavit**
 
-4. Hercules servam objecit❌, quam Deinara misit ad vestem revocandam, in mare. 
+4. Hercules servam objecit, quam Deinara misit ad vestem revocandam, in mare. 
 
-**Hercules servam objecit, quam Deinara misit ut dederit Hercules vestem, in mare.**
+**Hercules servam objecit, quam Deinara misit ut dederit Hercules vestem, in mare.**❌  **One *tiny* detail!  *misit* is past-time narrative (secondary sequence).  What tenses of the subjunctive are possible in a dependenct clause in secondary sequence?**
 
-5. Dixit Herculem fieriss❌e non mortalem, sed quod❌ Deinaraei factum se interfecit. 
+5. Dixit Herculem fierisse non mortalem, sed quod Deinaraei factum se interfecit. 
 
-**Dicitur Herculem ad immortalitatem ortum esse, sed Deinara se interfecit ob factum. **
+**Dicitur Herculem ad immortalitatem ortum esse, sed Deinara se interfecit ob factum.**
