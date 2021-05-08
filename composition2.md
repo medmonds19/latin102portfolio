@@ -27,8 +27,22 @@ flammo, flammare, flammavi, flammatus “flame, burn”
 
 Composition:
 
-1. Cum Deinara, filiae Oeneus et uxor Herculis, vidertt❌ **videret** Iolen adductam esse, Deinara conjurationem copiebat machinari, conjugem ne privaret.
-2. Ea misit famulum ad dandum vestem, sanguinem❌ **sanguine** centauri Nessi imbuitur, Herculi, quem ea philtrum cogitavit.❌ **quem ea duxit esse philtrum**
-3. Hercules vestem induit et hunc statim in flammatum.❌ **ea flammavit statim**
-4. Hercules servam objecit❌ **Hercules objecit servum**, quam Deinara misit ad vestem revocandam, in mare. 
-5. Dixit Herculem fieriss❌e non mortalem, sed quod❌ Deinaraei factum se interfecit. **Dictur Herculem ortum esse deum, sed Deianiram interfecisse se ob id**
+1. Cum Deinara, filiae Oeneus et uxor Herculis, vidertt❌ Iolen adductam esse, Deinara conjurationem copiebat machinari, conjugem ne privaret.
+
+**Cum Deinara, filia Oeni et uxor Hurculis, videret, Iolen adductam esse, Deinara coepit machinari, ne coniugio privaretur.**
+
+2. Ea misit famulum ad dandum vestem, sanguinem❌ **sanguine** centauri Nessi imbuitur, Herculi, quem ea philtrum cogitavit.❌ 
+
+**Ea famulum misit ut daret Herculi vestem, sanguine centauri Nessi tinctam quem putabat philtrum esse**
+
+3. Hercules vestem induit et hunc statim in flammatum.❌ 
+
+**Hercules vestem induit statimque flammavit**
+
+4. Hercules servam objecit❌, quam Deinara misit ad vestem revocandam, in mare. 
+
+**Hercules servam objecit, quam Deinara misit ut dederit Hercules vestem, in mare.**
+
+5. Dixit Herculem fieriss❌e non mortalem, sed quod❌ Deinaraei factum se interfecit. 
+
+**Dicitur Herculem ad immortalitatem ortum esse, sed Deinara se interfecit ob factum. **
