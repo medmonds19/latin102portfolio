@@ -1,3 +1,5 @@
+**Full credit**
+
 For each word in the following phrases, list the forms the dictionary entry gives you for the word:
 
 for a noun, nominative singular, genitive singular and gender
