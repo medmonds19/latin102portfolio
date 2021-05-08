@@ -1,3 +1,5 @@
+**Needs 1 minor revision**
+
 Note: the verb sum, esse, fui, futurus has no present participle! If you want to construct the equivalent of a normal verbal unit using a participle with a noun, you can simply omit the verb “to be” and include the predicate (just as you can with finite forms of sum: Herculis fortis could be a complete sentence). This is most easily recognizable when the noun is an ablative in ablative absolute construction.
 
 Vocabulary:
@@ -52,7 +54,7 @@ B. Grammatical questions
   - ablative singular + ablative singular, passive perfect participle, ablative absolute
 5. What are the gender, number, case, and antecedent of qui?
   - qui is masculine, plural, nominative
-  - antecedent is quattor eius
+  - antecedent is quattor eius❌ **Quattuor is an adjective "four".  The antecedent is four *something* -- what noun?**
 6. What Latin verb form has to be understood in the clause that runs from equorum to Dinus?
   - the verb "to be" it is omitted since it has no present participle but has to be understood to be in clause otherwise sentence would be incomplete 
 
@@ -65,4 +67,5 @@ Translation:
 
 He cleaned the manure of the stall of King Augeas on one day, with greater part of help from Jupiter. He washed all of the manure away by letting the river in. 
 He brought the bull, with whom Pasiphase had sex, from island Crete to Mycenae alive. 
-With his slave Abderos he killed Diomenes, king of Thrace, and his four horses, who ate human flesh. The horses' names were Podargus, Lampon, Xanthus and Dinus. 
+With his slave Abderus he killed Diomedes, king of Thrace, and his four horses, who ate human flesh. The horses' names were Podargus, Lampon, Xanthus and Dinus. 
+❓ **This translation does not contradict the grammar: it's correct in that sense. But it does contradict the story!  Abderus is a slave of Diomedes, not Hercules.**
