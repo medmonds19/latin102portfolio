@@ -54,7 +54,7 @@ B. Grammatical questions
   - ablative singular + ablative singular, passive perfect participle, ablative absolute
 5. What are the gender, number, case, and antecedent of qui?
   - qui is masculine, plural, nominative
-  - antecedent is quattor eius❌ **antecedent isa equos**
+  - antecedent is quattor eius❌ **antecedent is equos**
   
 6. What Latin verb form has to be understood in the clause that runs from equorum to Dinus?
   - the verb "to be" it is omitted since it has no present participle but has to be understood to be in clause otherwise sentence would be incomplete 
