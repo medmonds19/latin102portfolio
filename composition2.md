@@ -41,7 +41,7 @@ Composition:
 
 4. Hercules servam objecit, quam Deinara misit ad vestem revocandam, in mare. 
 
-**Hercules servam objecit, quam Deinara misit ut dederit Hercules vestem, in mare.**❌  **One *tiny* detail!  *misit* is past-time narrative (secondary sequence).  What tenses of the subjunctive are possible in a dependenct clause in secondary sequence?**
+**Hercules servam objecit, quam Deinara revocaret ut dederit Hercules vestem, in mare.**
 
 5. Dixit Herculem fierisse non mortalem, sed quod Deinaraei factum se interfecit. 
 
